@@ -1,0 +1,9 @@
+C:\Users\serka\source\repos\mutation-testing\src\Calculator\bin\Release\netcoreapp3.1\CalculatorApp.deps.json
+C:\Users\serka\source\repos\mutation-testing\src\Calculator\bin\Release\netcoreapp3.1\CalculatorApp.dll
+C:\Users\serka\source\repos\mutation-testing\src\Calculator\bin\Release\netcoreapp3.1\CalculatorApp.pdb
+C:\Users\serka\source\repos\mutation-testing\src\Calculator\obj\Release\netcoreapp3.1\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\serka\source\repos\mutation-testing\src\Calculator\obj\Release\netcoreapp3.1\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\serka\source\repos\mutation-testing\src\Calculator\obj\Release\netcoreapp3.1\CalculatorApp.AssemblyInfo.cs
+C:\Users\serka\source\repos\mutation-testing\src\Calculator\obj\Release\netcoreapp3.1\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\serka\source\repos\mutation-testing\src\Calculator\obj\Release\netcoreapp3.1\CalculatorApp.dll
+C:\Users\serka\source\repos\mutation-testing\src\Calculator\obj\Release\netcoreapp3.1\CalculatorApp.pdb
