@@ -7,7 +7,7 @@ namespace CalculatorApp.UnitTests
 	public class CalculatorTests
 	{
 		[Fact]
-		public void Add_With1and0_ShouldReturn1()
+		public void Add_With3and5_ShouldReturn8()
 		{
 			Calculator calc = new Calculator();
 			var result = calc.Add(3, 5);
